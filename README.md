@@ -1,5 +1,7 @@
 # Nowcasting median household income with mixed-frequency models
 
+Replication code for [this article](https://www.chicagofed.org/publications/economic-perspectives/2024/7).
+
 # Replication steps
 
 ## Full backtest
